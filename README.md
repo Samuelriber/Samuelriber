@@ -183,10 +183,7 @@ Me chamo Samuel Angelo Rezende Ribeiro, tenho 22 anos e sou natural de Minas Ger
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 
 - Sobre Mim
 
