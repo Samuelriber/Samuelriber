@@ -175,7 +175,17 @@ Me chamo Samuel Angelo Rezende Ribeiro, tenho 22 anos e sou natural de Minas Ger
 <br/>
 
 ---
-<br/>
+- Sobre Mim
+
+ -   🎓 **Formação**: Técnico em Informática (SENAC/MG) | Ciência da Computação (UNIPAC)
+
+ -   💡 **Especialidades**: Desenvolvimento Full-Stack, Análise de Dados, Automação IoT
+
+ -    🌱 **Atualmente aprendendo**: Novas tecnologias em cloud computing e machine learning
+
+ - 📫 **Como me encontrar**: [samuelriber16@gmail.com](mailto:samuelriber16@gmail.com)
+
+### 🤝 Vamos Conectar!
 
 
 
