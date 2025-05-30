@@ -26,11 +26,11 @@ Me chamo Samuel Angelo Rezende Ribeiro, tenho 22 anos e sou natural de Minas Ger
             src="https://custom-icon-badges.demolab.com/badge/Email-samuelriber16@gmail.com-red?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
-    <a href="https://linkedin.com/in/samuel-ribeiro">
+    <a href="https://linkedin.com/in/samuel-ribeiro*">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://www.linkedin.com/in/samuel-ribeiro-/"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Samuel%20Ribeiro-blue?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
