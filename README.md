@@ -2,7 +2,7 @@
 
 **`Backend & Data-Oriented Developer`**
 
-Olá! Me chamo **Samuel Angelo Rezende Ribeiro**, tenho **22 anos**, sou de **Minas Gerais** e sou **Técnico em Informática pelo SENAC/MG**. Atualmente curso **Bacharelado em Sistemas de Informação (UNIPAC)**.
+Olá! Me chamo **Samuel Angelo Rezende Ribeiro**, tenho **22 anos**, sou de **Minas Gerais** e sou **Técnico em Informática pelo SENAC/MG**. Atualmente curso **Bacharelado em Sistemas de Informação (IFMG)**.
 
 Atuo com **desenvolvimento backend e análise de dados**, criando **soluções orientadas a dados**, automações e sistemas escaláveis. Tenho forte interesse em **engenharia de dados, BI e backend**, sempre com foco em **estrutura, performance, organização de dados e impacto no negócio**.
 
