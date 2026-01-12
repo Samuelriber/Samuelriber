@@ -1,8 +1,10 @@
 # 👨🏻‍💻 Samuel Ribeiro
 
-**`Desenvolvedor Full‑Stack`**
+**`Backend & Data-Oriented Developer`**
 
-Olá! Me chamo **Samuel Angelo Rezende Ribeiro**, tenho **22 anos**, sou natural de **Minas Gerais** e sou **Técnico em Informática pelo SENAC/MG**. Atualmente curso **Bacharelado em Sistemas de Informação (UNIPAC)**. Sou apaixonado por tecnologia e por desenvolver **soluções completas**, indo do backend ao frontend, além de **automação e IoT**, sempre com foco em transformar ideias em **código funcional, escalável e bem estruturado**.
+Olá! Me chamo **Samuel Angelo Rezende Ribeiro**, tenho **22 anos**, sou de **Minas Gerais** e sou **Técnico em Informática pelo SENAC/MG**. Atualmente curso **Bacharelado em Sistemas de Informação (UNIPAC)**.
+
+Atuo com **desenvolvimento backend e análise de dados**, criando **soluções orientadas a dados**, automações e sistemas escaláveis. Tenho forte interesse em **engenharia de dados, BI e backend**, sempre com foco em **estrutura, performance, organização de dados e impacto no negócio**.
 
 <p align="left">
   <a href="https://github.com/Samuelriber?tab=repositories&sort=stargazers">
@@ -21,69 +23,36 @@ Olá! Me chamo **Samuel Angelo Rezende Ribeiro**, tenho **22 anos**, sou natural
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## 🧠 Stack Técnica (Data & Backend)
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-<img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img align="left" alt="Arduino" title="Arduino" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="Azure" title="Azure" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+### Linguagens
+- Python (análise de dados, automação, ETL)
+- Java (backend e POO)
+- SQL (consultas, modelagem e análise)
+- JavaScript / PHP (suporte a aplicações web)
 
-<br/>
-<br/>
+### Dados & Backend
+- Pandas, Streamlit
+- Web Scraping e automação de dados
+- APIs REST (consumo e integração)
+- Processamento e transformação de dados (ETL básico)
 
----
+### Banco de Dados
+- MySQL
+- Modelagem relacional (MER / DER)
+- Consultas, filtros e agregações SQL
 
-## 🎯 Projetos em Destaque
-
-* **🏪 Sistema de Gestão Logística**
-  Sistema completo para vendas de café, desenvolvido com **PHP**, **MySQL** e **frontend responsivo**, focado em controle de estoque, fluxo logístico e organização de dados.
-
-* **📊 Análise de Salários Europeus**
-  Dashboard interativo utilizando **Python**, **Pandas** e **Streamlit**, com **web scraping automatizado** para coleta e visualização de dados.
-
-* **🤖 Lixeira Automática (Arduino)**
-  Projeto **IoT** com sensores de proximidade, voltado à **sustentabilidade** e automação de processos simples.
-
-* **📄 Automação de PDFs**
-  Ferramentas para leitura, manipulação e processamento de documentos PDF, otimizando tarefas repetitivas.
+### Ferramentas & Infra
+- Git & GitHub
+- Linux
+- Azure (conceitos iniciais de cloud)
+- Arduino (IoT e coleta de dados)
 
 ---
 
-## 📊 Estatísticas
+## 🎯 Projetos em Destaque (Data / Backend)
 
-<p>
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Samuelriber&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelriber&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
----
-
-## ℹ️ Sobre Mim
-
-* 🎓 **Formação**: Técnico em Informática (SENAC/MG) | Bacharelado em Sistemas de Informação (UNIPAC)
-* 💡 **Especialidades**: Desenvolvimento Full‑Stack, Análise de Dados, Automação e IoT
-* 🌱 **Atualmente aprendendo**: Cloud Computing e fundamentos de Machine Learning
-* 📫 **Contato**: [samuelriber16@gmail.com](mailto:samuelriber16@gmail.com)
-
----
-
-## 🤝 Vamos Conectar!
-
-Estou sempre aberto a **colaborações**, **novos projetos** e **discussões sobre tecnologia**. Fique à vontade para explorar meus repositórios e entrar em contato!
+### 📊 Análise de Salários Europeus
+Dashboard interativo com **Python, Pandas e Streamlit**, incluindo:
+- Web scraping automatizado
+- Tratamento e
