@@ -42,7 +42,7 @@ Desenvolvedor com foco em **backend, dados e automação**, atuando na criação
 |---------|-----------|-------|
 | 🔹[**painel-seguranca**](https://github.com/Samuelriber/painel-seguranca) | Pipeline de dados para métricas de saúde ocupacional — processamento de incidentes, exames (ASO) e treinamentos com exportação para BI | `Python` · `Pandas` · `CSV` · `Power BI` |
 | 🔹[**REP0133CafeDvovo**](https://github.com/watdell/REP0133CafeDvovo) | Sistema completo de gestão com módulos de cadastro, frente de caixa, estoque, expedição e dashboards de relatórios | `PHP` · `SQL` · `Chart.js` · `Composer` |
-| 🔹[**trabalho-final-poo**](https://github.com/Samuelriber/trabalho-final-poo) | Sistema desktop de agendamento para estética automotiva — arquitetura MVC com padrão DAO | `Java` · `MVC` · `DAO` |
+| 🔹[**trabalho-final-poo**](https://github.com/eduardohrcoelho/trabalho-final-poo) | Sistema desktop de agendamento para estética automotiva — arquitetura MVC com padrão DAO | `Java` · `MVC` · `DAO` |
 | 🔹[**site-seday**](https://github.com/Samuelriber/site-seday) | Website corporativo SPA para empresa de logística e transporte pesado | `React` · `Vite` · `Tailwind CSS` |
 | 🔹[**site-avapex**](https://github.com/Samuelriber/site-avapex) | Website institucional com catálogo visual de frota de máquinas pesadas | `HTML5` · `CSS3` · `JavaScript` |
 
