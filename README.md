@@ -1,7 +1,5 @@
 # Samuel Ribeiro
-
 **Backend & Data-Oriented Developer**
-
 Construo soluções que transformam dados brutos em decisões de negócio — do pipeline ao dashboard.
 
 ---
@@ -51,8 +49,7 @@ Desenvolvedor com foco em **backend, dados e automação**, atuando na criação
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samuelriber&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs&hide_rank=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelriber&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=Jupyter%20Notebook,CSS,HTML" alt="Top Languages" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
@@ -68,6 +65,7 @@ Desenvolvedor com foco em **backend, dados e automação**, atuando na criação
 <div align="center">
 
 **Aberto a oportunidades em Backend, Dados e Automação.**
+
 Se você é recrutador ou tech lead e chegou até aqui, vamos conversar — estou a um clique de distância no LinkedIn.
 
 </div>
