@@ -2,8 +2,8 @@ name: Metrics
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # roda todo dia às 03h (horário UTC)
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "0 3 * * *"
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -23,8 +23,6 @@ jobs:
           config_timezone: America/Sao_Paulo
           config_output: svg
           filename: github-metrics.svg
-
-          # Linguagens mais usadas
           plugin_languages: yes
           plugin_languages_limit: 6
           plugin_languages_sections: most-used
@@ -33,6 +31,3 @@ jobs:
           plugin_languages_ignored: >-
             html, css, jupyter notebook
           plugin_languages_threshold: 2%
-
-          # Streak de contribuições
-          plugin_streak: yes
