@@ -38,4 +38,4 @@ Hoje meu foco é consolidar essa experiência em Engenharia de Dados, com intere
 ## Contato
 
 - LinkedIn: [in/samuel-ribeiro-14b780213](https://linkedin.com/in/samuel-ribeiro-14b780213)
-- E-mail: `<seu-email-profissional>`
+- E-mail: `samuelriber16@gmail.com`
