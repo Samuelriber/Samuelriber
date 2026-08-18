@@ -1,71 +1,41 @@
 # Samuel Ribeiro
-**Backend & Data-Oriented Developer**
-Construo soluções que transformam dados brutos em decisões de negócio — do pipeline ao dashboard.
 
----
+**Engenharia de Dados & Backend** — transformo processos manuais de negócio em pipelines, dashboards e APIs que rodam sozinhos.
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
-Desenvolvedor com foco em **backend, dados e automação**, atuando na criação de pipelines ETL, dashboards analíticos e sistemas orientados a dados para operações reais de empresas. Graduando em **Sistemas de Informação pelo IFMG** e baseado em Minas Gerais, Brasil.
+Graduando em Sistemas de Informação (IFMG), atuo há mais de 2 anos construindo infraestrutura de dados e BI dentro de uma operação real de transporte e logística (Grupo Seday), muitas vezes fora do escopo formal do meu cargo. Meu trabalho sai de "planilha manual" e "relatório atrasado" para pipeline ETL, modelo Power BI documentado ou API — e é isso que aparece nos repositórios abaixo.
 
----
+Hoje meu foco é consolidar essa experiência em Engenharia de Dados, com interesse crescente em Backend (NestJS/Java) e Segurança da Informação.
 
-## ⚙️ Stack & Ferramentas
+## Stack & Ferramentas
 
-**Linguagens & Backend**
+**Linguagens**
+`Python` `TypeScript` `Java` `SQL`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Dados & BI**
+`Power BI` `DAX` `Power Query (M)` `Oracle SQL` `PostgreSQL` `Pandas` `Tabular Editor`
 
-**Dados & Analytics**
+**Backend & Frameworks**
+`NestJS` `FastAPI` `Streamlit` `React`
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**Ferramentas & Infra**
+`Git` `GitHub Actions` `Docker` `Linux` `DBeaver`
 
-**Frontend & Infra**
+## Projetos em destaque
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> Veja a seção fixada (Pinned) acima para os repositórios ativos mais relevantes — cada um com README próprio detalhando contexto, arquitetura e resultados.
 
----
+| Projeto | Frente | Descrição curta |
+|---|---|---|
+| `<pipeline-etl-ponto>` | Engenharia de Dados | ETL Oracle → PostgreSQL para espelho de ponto, escalas e auditoria CLT, com API FastAPI e dashboard |
+| `<nf-conciliador>` | Engenharia de Dados | Pipeline Python que cruza notas fiscais de Oracle e Excel, classifica divergências e gera relatório automatizado |
+| `<tabular-editor-scripts>` | BI / DevOps de dados | Scripts C# para Tabular Editor 2 que exportam documentação de modelos Power BI automaticamente |
+| `<alpa-web>` | Backend/Frontend | Frontend React/TypeScript para portal de ONG, com backend Spring Boot em desenvolvimento |
+| `<dre-gerencial-powerbi>` (sanitizado) | BI | Modelo Power BI de DRE gerencial consolidado, com DAX avançado |
+| `<painel-seguranca>` | Dados aplicados a Segurança | Painel de gestão de dados de Segurança do Trabalho |
 
-## 🚀 Projetos
+## Contato
 
-| Projeto | Descrição | Stack |
-|---------|-----------|-------|
-| 🔹[**painel-seguranca**](https://github.com/Samuelriber/painel-seguranca) | Pipeline de dados para métricas de saúde ocupacional — processamento de incidentes, exames (ASO) e treinamentos com exportação para BI | `Python` · `Pandas` · `CSV` · `Power BI` |
-| 🔹[**REP0133CafeDvovo**](https://github.com/watdell/REP0133CafeDvovo) | Sistema completo de gestão com módulos de cadastro, frente de caixa, estoque, expedição e dashboards de relatórios | `PHP` · `SQL` · `Chart.js` · `Composer` |
-| 🔹[**trabalho-final-poo**](https://github.com/eduardohrcoelho/trabalho-final-poo) | Sistema desktop de agendamento para estética automotiva — arquitetura MVC com padrão DAO | `Java` · `MVC` · `DAO` |
-| 🔹[**site-seday**](https://github.com/Samuelriber/site-seday) | Website corporativo SPA para empresa de logística e transporte pesado | `React` · `Vite` · `Tailwind CSS` |
-| 🔹[**site-avapex**](https://github.com/Samuelriber/site-avapex) | Website institucional com catálogo visual de frota de máquinas pesadas | `HTML5` · `CSS3` · `JavaScript` |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</div>
-
----
-
-## 📬 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-ribeiro-14b780213)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531998776704)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelriber16@gmail.com)
-
----
-
-<div align="center">
-
-**Aberto a oportunidades em Backend, Dados e Automação.**
-
-Se você é recrutador ou tech lead e chegou até aqui, vamos conversar — estou a um clique de distância no LinkedIn.
-
-</div>
+- LinkedIn: [in/samuel-ribeiro-14b780213](https://linkedin.com/in/samuel-ribeiro-14b780213)
+- E-mail: `<seu-email-profissional>`
