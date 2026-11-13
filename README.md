@@ -1,41 +1,60 @@
-# Samuel Ribeiro
+# Olá, eu sou o Samuel Ribeiro 👋
 
-**Engenharia de Dados & Backend** — transformo processos manuais de negócio em pipelines, dashboards e APIs que rodam sozinhos.
+**Analista de Sistemas Júnior | Engenharia de Dados & Backend**
+Transformo processos manuais de negócio em pipelines, APIs e dashboards que rodam sozinhos.
 
 ## Sobre mim
 
-Graduando em Sistemas de Informação (IFMG), atuo há mais de 2 anos construindo infraestrutura de dados e BI dentro de uma operação real de transporte e logística (Grupo Seday), muitas vezes fora do escopo formal do meu cargo. Meu trabalho sai de "planilha manual" e "relatório atrasado" para pipeline ETL, modelo Power BI documentado ou API — e é isso que aparece nos repositórios abaixo.
+Graduando em Sistemas de Informação (IFMG). Há mais de 2 anos construo automação e BI dentro de uma operação real de transporte e logística (Grupo Seday).
 
-Hoje meu foco é consolidar essa experiência em Engenharia de Dados, com interesse crescente em Backend (NestJS/Java) e Segurança da Informação.
+- ⚡ Automatizei a conciliação fiscal entre sistemas corporativos, **reduzindo o ciclo de 1 semana para 1 dia**.
+- 📊 Atuo com BI: Oracle SQL, Power BI, DAX e Power Query (M).
+- 🎯 Foco atual: Engenharia de Dados e Backend com Java/Spring Boot.
 
-## Stack & Ferramentas
+## Tech Stack
 
-**Linguagens**
-`Python` `TypeScript` `Java` `SQL`
-
-**Dados & BI**
-`Power BI` `DAX` `Power Query (M)` `Oracle SQL` `PostgreSQL` `Pandas` `Tabular Editor`
-
-**Backend & Frameworks**
-`NestJS` `FastAPI` `Streamlit` `React`
-
-**Ferramentas & Infra**
-`Git` `GitHub Actions` `Docker` `Linux` `DBeaver`
+| Área | Tecnologias |
+|---|---|
+| Backend | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) |
+| Dados / ETL | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) |
+| Bancos | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |
+| BI | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) DAX · Power Query (M) · Tabular Editor |
+| Infra | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) GitHub Actions |
 
 ## Projetos em destaque
 
-> Veja a seção fixada (Pinned) acima para os repositórios ativos mais relevantes — cada um com README próprio detalhando contexto, arquitetura e resultados.
+### 🔄 Automação fiscal: Klaus Fiscal × Oracle Globus *(repositório privado)*
+Pipeline de conciliação entre o Klaus Fiscal e o ERP Oracle Globus.
+- **Stack:** Python, Pandas, Airflow, FastAPI, Docker
+- **Arquitetura:** camadas em estilo medalhão (bruto → tratado → pronto para consumo), orquestradas por DAGs do Airflow e expostas via API FastAPI
+- **Impacto:** conciliação financeira de **1 semana para 1 dia**
 
-| Projeto | Frente | Descrição curta |
-|---|---|---|
-| `<pipeline-etl-ponto>` | Engenharia de Dados | ETL Oracle → PostgreSQL para espelho de ponto, escalas e auditoria CLT, com API FastAPI e dashboard |
-| `<nf-conciliador>` | Engenharia de Dados | Pipeline Python que cruza notas fiscais de Oracle e Excel, classifica divergências e gera relatório automatizado |
-| `<tabular-editor-scripts>` | BI / DevOps de dados | Scripts C# para Tabular Editor 2 que exportam documentação de modelos Power BI automaticamente |
-| `<alpa-web>` | Backend/Frontend | Frontend React/TypeScript para portal de ONG, com backend Spring Boot em desenvolvimento |
-| `<dre-gerencial-powerbi>` (sanitizado) | BI | Modelo Power BI de DRE gerencial consolidado, com DAX avançado |
-| `<painel-seguranca>` | Dados aplicados a Segurança | Painel de gestão de dados de Segurança do Trabalho |
+### 📦 [Controle de Estoque](https://github.com/Samuelriber/Controle-de-Estoque): API REST
+Backend completo de controle de estoque.
+- **Stack:** Java 21, Spring Boot, Spring Data JPA, MySQL 8, Bean Validation, Swagger (springdoc)
+- **Arquitetura:** camadas Controller → Service → Repository, DTOs de entrada e saída e `GlobalExceptionHandler` com erros padronizados
+- **Regras de negócio:** validação de limites mín/máx, integridade referencial (409 ao excluir produto com estoque) e transações com `@Transactional`
+
+### 🦺 [Painel de Segurança do Trabalho](https://github.com/Samuelriber/painel-seguranca)
+Substitui planilhas dispersas por uma aplicação com alertas de vencimento (treinamentos NR, ASOs, CNHs).
+- **Stack:** Python, Streamlit, SQLite, Pandas
+- **Destaques:** importação de Excel com detecção de duplicatas, KPIs e exportação CSV para Power BI
+
+### 📐 [Tabular Editor Scripts](https://github.com/Samuelriber/tabular-editor-scripts)
+Script C# que documenta automaticamente modelos Power BI (código M, medidas DAX e relacionamentos).
+
+### 🚗 [Sistema de Agendamento de Estética Automotiva](https://github.com/Samuelriber/trabalho-final-poo)
+Aplicação Java com MVC e DAO genérico (`IDAO<T>`), polimorfismo e persistência em arquivo.
+
+## Outros projetos
+
+- [alpa-web](https://github.com/Samuelriber/alpa-web): portal de ONG em React/TypeScript (frontend; backend Spring Boot planejado)
+- [Salarios-Europa-](https://github.com/Samuelriber/Salarios-Europa-): web scraping (BeautifulSoup), análise com Pandas/Matplotlib e dashboard em Streamlit
+- [Mesclando-pdfs](https://github.com/Samuelriber/Mesclando-pdfs): utilitário Python para mesclar PDFs
+- [ceps](https://github.com/Samuelriber/ceps): script Python de consulta de CEPs
+- [site-seday](https://github.com/Samuelriber/site-seday), [site-avapex](https://github.com/Samuelriber/site-avapex) e [BLOG-GRUPO-SEDAY](https://github.com/Samuelriber/BLOG-GRUPO-SEDAY): sites institucionais
 
 ## Contato
 
-- LinkedIn: [in/samuel-ribeiro-14b780213](https://linkedin.com/in/samuel-ribeiro-14b780213)
-- E-mail: `samuelriber16@gmail.com`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/samuel-ribeiro-14b780213)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samuelriber16@gmail.com)
